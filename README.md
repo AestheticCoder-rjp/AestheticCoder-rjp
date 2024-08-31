@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashanth R J</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi there👋, I'm Prashanth R J</h1>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aestheticcoder-rjp&label=Profile%20views&color=0e75b6&style=flat" alt="aestheticcoder-rjp" /> </p>
 
