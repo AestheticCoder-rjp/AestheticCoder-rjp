@@ -1,5 +1,5 @@
 <!--<p> <img src="header.png" alt="aestheticcoder-rjp" /> </p>-->
-![Header](./header.png)
+![Header](./header2.png)
 
 <h1 align="center">Hi there👋, I'm Prashanth R J</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
