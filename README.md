@@ -1,3 +1,6 @@
+<!--<p> <img src="header.png" alt="aestheticcoder-rjp" /> </p>-->
+![Header](./assets/header.png)
+
 <h1 align="center">Hi there👋, I'm Prashanth R J</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
